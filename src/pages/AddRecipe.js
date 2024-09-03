@@ -7,13 +7,13 @@ import { MdRemoveCircleOutline } from "react-icons/md";
 
 const style = {
   bg: `w-screen px-4 py-8 bg-[#EAE7E7]`,
-  container: `flex flex-col gap-8 bg-white p-4 max-w-7xl m-auto`,
+  container: `flex flex-col gap-8 bg-white p-4     mx-auto max-w-screen-lg`,
   heading: `text-3xl font-bold text-center text-gray-800`,
   form: `flex flex-col gap-4`,
   label: `text-xs font-semibold uppercase`,
   input: `border p-2 w-full text-lg rounded-md`,
   inputSmall: `border p-2 w-[90px] text-lg rounded-md`,
-  button: `                        rounded-md px-3 py-2 bg-[#ffa504] font-medium text-[#231f1f]`,
+  button: `rounded-md px-3 py-2 bg-[#ffa504] font-medium text-[#231f1f]`,
   addBut: `flex gap-1 items-center rounded-md px-2 py-1 bg-[#FFD78D] cursor-pointer`,
 };
 
